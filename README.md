@@ -3,10 +3,11 @@
 Have been around 8 years being a Teacher.
 
 - 🌱 I’m currently learning Javascript & App Script from Google Workspace.
-My School habit makes me to work with this platform.
+My School Company habit makes me to work with this platform.
 
 I'm a learner and still,
-
+Want to know more about programing.
+Please support me ✨
 <!--
 **anggikolo11/anggikolo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
