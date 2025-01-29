@@ -1,6 +1,10 @@
 ## Hi there 👋
 - 🔭 I’m currently working on School Company as a Teacher.
-- 🌱 I’m currently learning Javascript & App Script from Google Workspace
+Have been around 8 years being a Teacher.
+
+- 🌱 I’m currently learning Javascript & App Script from Google Workspace.
+My School habit makes me to work with this platform.
+
 I'm a learner and still,
 
 <!--
