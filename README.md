@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on School Company as a Teacher.
+- 🌱 I’m currently learning Javascript & App Script from Google Workspace
+I'm a learner and still,
 
 <!--
 **anggikolo11/anggikolo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
